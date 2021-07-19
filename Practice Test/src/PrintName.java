@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Hello {
+public class PrintName {
 
 	public static void main(String args[])
 	{
